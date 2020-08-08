@@ -1,5 +1,6 @@
 # Austin Crime Rates
-Final Project for DA 6813 - University of Texas at San Antonio
+Final Project for DA 6813 - Data Analytics Applications   
+University of Texas at San Antonio
 
 ## Contributors
 
